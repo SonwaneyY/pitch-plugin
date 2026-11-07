@@ -1,0 +1,8 @@
+{
+  "name": "pitch",
+  "version": "0.2.0",
+  "description": "Spearfish a design role: research the company and everything it already offers, audit their UX, extract their design system, run futures work and pick one concept, build a tasteful on-brand prototype and walk through it click by click, state the thesis, write the note. Six stages, one sub-agent each, your approval after every stage, then straight on to the next.",
+  "author": { "name": "Yash Sonwaney" },
+  "keywords": ["job-search", "spearfishing", "prototype", "ux-audit", "design-system", "hiring-manager", "product-strategy"],
+  "license": "MIT"
+}

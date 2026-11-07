@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pitch-plugin",
+  "version": "1.1.0",
+  "description": "The pitch plugin: apply to a design role by building an on-brand prototype for the company instead of sending a resume.",
+  "owner": { "name": "Yash Sonwaney", "url": "https://github.com/SonwaneyY" },
+  "plugins": [
+    {
+      "name": "pitch",
+      "description": "Spearfish a design role: research the company and everything it already offers, audit their UX, extract their design system, run futures work and pick one concept, build a tasteful on-brand prototype and walk through it click by click, state the thesis, write the note. Six stages, one sub-agent each, your approval after every stage, then straight on to the next.",
+      "source": "./pitch",
+      "category": "design"
+    }
+  ]
+}
